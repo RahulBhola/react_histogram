@@ -1,3 +1,28 @@
+# Project Title
+This is a project that displays a histogram of word frequency from a given text file.
+
+## Components
+- `Histogram.js`: This component displays the histogram using Chart.js and allows the user to submit a text file and export the data as a CSV file.
+
+## Libraries and Plugins Used
+- React: A JavaScript library for building user interfaces.
+- axios: A library for making HTTP requests.
+- Chart.js: A library for creating charts and graphs.
+- file-saver: A library for saving files on the client-side.
+
+## Installation
+To run this project, you'll need to have Node.js and npm installed on your computer. Then, follow these steps:
+
+1. Clone this repository to your local machine.
+2. In the project directory, run `npm install` to install the necessary dependencies.
+3. Run `npm start` to start the development server.
+4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
+
+## Usage
+Once the app is running, you can submit a text file and see the histogram of word frequency. You can also export the data as a CSV file by clicking the "Export Histogram Data as CSV" button. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
